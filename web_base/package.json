@@ -1,0 +1,10 @@
+{
+  "name": "web_base",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server ./ht_docs 8080"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
